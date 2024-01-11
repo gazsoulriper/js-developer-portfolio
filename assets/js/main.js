@@ -18,8 +18,11 @@ function updateProfileInfo(profileData) {
     phone.href = `https://wa.me/55${profileData.phone}`
 
     const email = document.getElementById('profile.email')
-}   email.innerText = profileData.email
+    email.innerText = profileData.email
     email.href = `mailto:${profileData.email}`
+    //const email = document.getElementById('profile.email')
+}   //email.innerText = profileData.email
+    //email.href = `mailto:${profileData.email}`
 
 
 
