@@ -61,7 +61,7 @@
     background-image: url('/assets/img/icons/phone.svg');
 }
 
-.informations .map::before {
+.informations .location::before {
     background-image: url('/assets/img/icons/map.svg');
 }
 
