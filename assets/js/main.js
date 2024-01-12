@@ -61,9 +61,9 @@ function updateExperience(profileData) {
     const experience = document.getElementById('experience')
     experience.innerHTML = profileData.experience.map(experience => {
         return `<li>
-        <p class="title" id="experience.name">${experience.name}</p>
-        <p class="period date" id="experience.period">${experience.period}</p>
-        <p id="experience.description">${experience.description}</p>
+        <p class="title" id="education.cours">${experience.name}</p>
+        <p class="period date" id="education.period">${experience.period}</p>
+        <p id="education.university">${experience.description}</p>
     </li>`}).join('')
 }
 
