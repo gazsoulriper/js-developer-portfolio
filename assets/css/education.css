@@ -1,0 +1,30 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding-left: 2rem;
+    list-style: none;
+}
+
+.education li .title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: .5rem;
+}
+
+.education li .period {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.education li .period.date::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: .5rem;
+    background-image: url('assets/img/icons/date.svg');
+}

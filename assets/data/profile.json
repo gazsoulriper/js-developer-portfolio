@@ -38,6 +38,14 @@
       "Comprometimento com resultados"
     ]
   },
+
+  "education": [
+    {
+      "cours": "Ciência da computação - EaD",
+      "period": "Cursando o 6° Período",
+      "university": "Universidade Positivo",
+    }
+  ],
   "languages": [
     "Português BR",
     "Inglês (intermediário)",

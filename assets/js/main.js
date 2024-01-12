@@ -32,6 +32,16 @@ function updateHardSkills(profileData) {
     hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
 }
 
+function updateEducation(profileData) {
+    const education = document.getElementById('education')
+    education.innerHTML = profileData.education.map(education => {
+        return `<li>
+        <p class="title" id="experience.name">${education.cours}</p>
+        <p class="period date" id="experience.period">${education.period}</p>
+        <p id="experience.description">${education.university}</p>
+    </li>`}).join('')
+}
+
 function updateLanguages(profileData) {
     const languages = document.getElementById('languages')
 languages.innerHTML = profileData.languages.map(idioma => `<li>${idioma}</li>`).join('')
@@ -65,6 +75,7 @@ function updateExperience(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateExperience(profileData)
+    updateEducation(profileData)
 })()
 
 
