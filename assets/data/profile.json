@@ -27,6 +27,16 @@
         "name": "Python",
         "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/python.svg"
       }
+
+      {
+        "name": "VsCode",
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/vscode.svg"
+      }
+
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/git.svg"
+      }
     ],
     "softSkills": [
       "Autodidata",
