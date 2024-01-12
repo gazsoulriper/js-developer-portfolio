@@ -27,10 +27,6 @@
         {
           "name": "Python",
           "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/python.svg"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
         }
       ],
       "softSkills": [
