@@ -4,4 +4,4 @@ Link para visualizar o projeto online <a href="https://gazsoulriper.github.io/js
 
 Imagens
 
-<img src="https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/portfolio1.JPG"><img src="https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/portfolio2.JPG"
+<img src="https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/portfolio1.JPG"><img src="https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/portfolio2.JPG">
