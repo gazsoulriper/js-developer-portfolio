@@ -39,7 +39,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/arrow-open.svg');
+    background-image: url('assets/img/icons/arrow-open.svg');
     transition: .25s;
 }
 
