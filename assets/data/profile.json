@@ -1,79 +1,72 @@
-
 {
-    "name": "Alex Lopes",
-    "photo": "https://avatars.githubusercontent.com/u/98856335?v=4",
-    "job": "Future Developer Front End",
-    "location": "Curitiba - PR",
-    "phone": "41984829639",
-    "email": "alxs.v8@gmail.com",
-    "skills": {
-      "hardSkills": [
-        {
-          "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/js.svg"
-        },
-        {
-          "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/css.svg"
-        },
-        {
-          "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/html.svg"
-        },
-        {
-          "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/githubs.svg"
-        },
-        {
-          "name": "Python",
-          "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/python.svg"
-        }
-      ],
-      "softSkills": [
-        "Autodidata",
-        "Liderança",
-        "Trabalho em equipe",
-        "Comunicação",
-        "Flexibilidade",
-        "Organização",
-        "Comprometimento com resultados"
-      ]
-    },
-    "languages": [
-      "Português BR",
-      "Inglês (intermediário)",
-      "Espanhol (básico)"
-    ],
-    "portfolio": [
+  "name": "Alex Lopes",
+  "photo": "https://avatars.githubusercontent.com/u/98856335?v=4",
+  "job": "Future Developer Front End",
+  "location": "Curitiba - PR",
+  "phone": "41984829639",
+  "email": "alxs.v8@gmail.com",
+  "skills": {
+    "hardSkills": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/gazsoulriper/js-project-pokedex",
-        "certificate": "https://www.dio.me/certificate/5FF43822/share",
-        "github": true
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/js.svg"
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/gazsoulriper/js-developer-portfolio",
-        "certificate": "https://www.dio.me/certificate/3FE70707/share",
-        "github": true
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/css.svg"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/html.svg"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/githubs.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/python.svg"
       }
     ],
-    "professionalExperience": [
-      {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-      },
-      {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-      }
+    "softSkills": [
+      "Autodidata",
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Flexibilidade",
+      "Organização",
+      "Comprometimento com resultados"
     ]
-  }
-
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/gazsoulriper/js-project-pokedex",
+      "certificate": "https://www.dio.me/certificate/5FF43822/share",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/gazsoulriper/js-developer-portfolio",
+      "certificate": "https://www.dio.me/certificate/3FE70707/share",
+      "github": true
+    }
+  ],
+  "Experience": [
+    {
+      "name": "Empreendedor Eccomerce Autônomo",
+      "period": "2016 - até 2023",
+      "description": "Empreendedor digital com vendas de produtos nacionais, importados e cursos digitais em plataformas online como Mercado Livre, Google, Hotmart e outros."
+    },
+    {
+      "name": "Piloto métier Sistemas de Informação Qualidade (Analista de dados Business Intelligence) - Renault do Brasil",
+      "period": "2009 - 2016",
+      "description": "Responsável pelo funcionamento, dos sistemas de informação do site GRET: administração, formação e suporte auxiliar dos utilizadores do site. Responsável pela gestão dos indicadores e Pareto de qualidade deste sistema: construção de indicadores, ficar a disposição dos clientes e manutenção do sistema, fiscalização, auditoria e contribuição. Cooperação transversal, agindo como intermediador entre os metiers de Fabricação, Engenharia, Qualidade, Logística e Informática em assuntos de qualidade do sistema ligados a todos os setores. Responsável pelos indicadores e critérios de medição de desempenho, evolução dos indicadores caracterizando o bom uso dos sistemas para os clientes utilizadores. Criação de novas bases de dados da qualidade ligadas aos novos projetos inseridos na fábrica de acordo com os Jalons estabelecidos. Autonomia para melhorar o processo de lançamento dos indicadores, gerando uma maior confiabilidade na base de dados. Preenchimento de relatórios dinâmicos diários para reuniões gerenciais e tomadas de decisões com relação a qualidade dos veículos. Treinamentos para novos supervisores e estagiários da área sobre o sistema GRET e seu funcionamento."
+    }
+  ]
+}
