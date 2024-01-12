@@ -36,9 +36,9 @@ function updateEducation(profileData) {
     const education = document.getElementById('education')
     education.innerHTML = profileData.education.map(education => {
         return `<li>
-        <p class="title" id="experience.name">${education.cours}</p>
-        <p class="period date" id="experience.period">${education.period}</p>
-        <p id="experience.description">${education.university}</p>
+        <p class="title" id="education.cours">${education.cours}</p>
+        <p class="period date" id="education.period">${education.period}</p>
+        <p id="education.university">${education.university}</p>
     </li>`}).join('')
 }
 
@@ -61,9 +61,9 @@ function updateExperience(profileData) {
     const experience = document.getElementById('experience')
     experience.innerHTML = profileData.experience.map(experience => {
         return `<li>
-        <p class="title" id="education.cours">${experience.name}</p>
-        <p class="period date" id="education.period">${experience.period}</p>
-        <p id="education.university">${experience.description}</p>
+        <p class="title" id="experience.name">${experience.name}</p>
+        <p class="period date" id="experience.period">${experience.period}</p>
+        <p id="experience.description">${experience.description}</p>
     </li>`}).join('')
 }
 
