@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/js.svg"
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/mainassets/img/icons/js.svg"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/css.svg"
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/mainassets/img/icons/css.svg"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/html.svg"
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/mainassets/img/icons/html.svg"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/githubs.svg"
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/mainassets/img/icons/githubs.svg"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/main/assets/img/icons/python.svg"
+        "logo": "https://raw.githubusercontent.com/gazsoulriper/js-developer-portfolio/mainassets/img/icons/python.svg"
       }
     ],
     "softSkills": [
