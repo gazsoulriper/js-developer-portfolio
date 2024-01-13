@@ -54,6 +54,13 @@
       "cours": "Curso Ciência da computação - EaD",
       "period": "Cursando o 6° Período",
       "university": "Universidade Positivo"
+    },
+
+    {
+      "cours": "Formação JavaScript Developer - 39h",
+      "period": "Concluído",
+      "university": "DIO - Digital Innovation One",
+      "certificate": "https://www.dio.me/certificate/CDB5621A/share"
     }
   ],
   "languages": [

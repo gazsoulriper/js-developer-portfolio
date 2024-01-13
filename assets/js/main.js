@@ -39,6 +39,7 @@ function updateEducation(profileData) {
         <p class="title" id="education.cours">${education.cours}</p>
         <p class="period date" id="education.period">${education.period}</p>
         <p id="education.university">${education.university}</p>
+        <a href="${education.certificate}" target="_blank">${education.certificate}</a>
     </li>`}).join('')
 }
 
