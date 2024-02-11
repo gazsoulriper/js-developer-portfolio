@@ -61,6 +61,13 @@
       "period": "Concluído",
       "university": "DIO - Digital Innovation One",
       "certificate": "https://www.dio.me/certificate/CDB5621A/share"
+    },
+
+    {
+      "cours": "Formação HTML Developer - 21h",
+      "period": "Concluído",
+      "university": "DIO - Digital Innovation One",
+      "certificate": "https://www.dio.me/certificate/HBFUXM5R/share"
     }
   ],
   "languages": [
@@ -79,6 +86,20 @@
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
       "url": "https://github.com/gazsoulriper/js-developer-portfolio",
       "certificate": "https://www.dio.me/certificate/3FE70707/share",
+      "github": true
+    },
+
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de Clinica Médica",
+      "url": "https://github.com/gazsoulriper/html-developer-segundo-desafio",
+      "certificate": "https://www.dio.me/certificate/45B5E6C1/share",
+      "github": true
+    },
+
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página da Wikipédia",
+      "url": "https://github.com/gazsoulriper/trilha-html-modulo-3",
+      "certificate": "https://www.dio.me/certificate/9NT8XINR/share",
       "github": true
     }
   ],
